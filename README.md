@@ -1,4 +1,4 @@
-# react-native-fullscreen-listener
+# React Native Fullscreen Listener
 
 ## Getting started
 
@@ -9,9 +9,9 @@
 `$ react-native link react-native-fullscreen-listener`
 
 ## Usage
-```javascript
-import RNFullscreenListener from 'react-native-fullscreen-listener';
 
-// TODO: What to do with the module?
-RNFullscreenListener;
+```javascript
+import FullscreenListener from "react-native-fullscreen-listener";
+
+<FullscreenListener onChange={isFullscreenBoolean => {}} />;
 ```
