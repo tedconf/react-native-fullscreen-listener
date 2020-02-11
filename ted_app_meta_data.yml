@@ -1,0 +1,6 @@
+version: 0.0.1
+vertical: devices
+production:
+  endpoint_url:
+staging:
+  endpoint_url:
